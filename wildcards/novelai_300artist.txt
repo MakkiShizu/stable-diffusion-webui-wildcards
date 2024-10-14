@@ -3,7 +3,7 @@ naga u,(tyakomes:0.9524),henreader,baku-p
 (fagun yibei:1.05),berryverrine,saaal653,mihifu,reddizen,tabi \(tabisumika\),naga u,no lineart
 unfinished,naga u, nekotoufu, ilya kuvshinov
 morino hon,nuu \(nu-nyu\),(harada takehito:1.05)
-(chibi:1.2155),1 girl,(amaichi esora:1.05),zhibuji loom,(WANKE:0.9524),(ciloranko:0.9524),(amashironatsuki:0.9524), (rubi-sama:1.05)}(asanagi:1.1025),(toraishi 666:0.907) (mvv:0.907) (zuizi:1.05),(taitai,chen bin:1.05),(sho \(sho lwlw\),chibi,:0.9524)
+(chibi:1.2155),1 girl,(amaichi esora:1.05),zhibuji loom,(WANKE:0.9524),(ciloranko:0.9524),(amashironatsuki:0.9524), (rubi-sama:1.05)(asanagi:1.1025),(toraishi 666:0.907) (mvv:0.907) (zuizi:1.05),(taitai,chen bin:1.05),(sho \(sho lwlw\),chibi,:0.9524)
 luicent, (ningen mame:0.9524), sumiyao \(amam\), astg
 (torino:0.907),(as109:1.05),(asanagi:0.907),(torino auqa:1.05),saku usako \(rabbit\),(mochizuki kei:0.9524),(asanagi:1.05)
 kanzakietc, (aono \(f i s\):1.05),sasa onigiri,(na tarapisu153:1.05),year 2022
@@ -92,7 +92,7 @@ bbolalus,miyuki \(miyuki0529\),(kedama milk:0.8638),rin31153336
 ciloranko, (ame \(uten cancel\):0.8227), (muloli \(artist\):0.8227), year 2023,
 oyari ashito, higeneko, goma satoshi, potetos7, azure \(capriccio\)
 (konya karasue:1.05),modare Rella, banishment, (stu dts:1.05),(miv4t:1.05), (suzumi \(ccroquette\):1.05), (rei \(sanbonzakura\):1.05),(torino aqua:1.05),
-(Morikura En:1.05), Rella,(nanaken nana:0.9524),u u zan, banishment, stu dts},(miv4t:0.9524),(wlop:0.907) (suzumi \(ccroquette\):1.1025),rei \(sanbonzakura\),torino aqua,close-up
+(Morikura En:1.05), Rella,(nanaken nana:0.9524),u u zan, banishment, stu dts,(miv4t:0.9524),(wlop:0.907) (suzumi \(ccroquette\):1.1025),rei \(sanbonzakura\),torino aqua,close-up
 (gusha s,kyokucho:1.1025),(kedama milk,amashiro natsuki:1.05),year 2022,AS109
 (hiro \(dismaless\),kotobuki utage:1.2155),hitomaru,(Kyokucho,murata range:0.907),year 2023, ,close-up
 (shpo:0.7835),(cutesexyrobutts:0.614)
@@ -190,7 +190,7 @@ asakai mocchinu,monikano,hakaba \(dairiseki\)
 (rei\(sanbonzakura\),mika pikazo:0.907),shion\(mirudakemann\),(cogecha:0.907),ryou\(ryoutarou\),year 2023
 (cogecha:0.907),ryou\(ryoutarou\),year 2023
 (yoneyama mai:0.907),(cutesexyrobutts:0.907),(ke-ta:0.8227),year 2023
-(zuizi:1.1025),taitai,chen bin},(tianliang duohe fangdongye:0.9524)
+(zuizi:1.1025),taitai,chen bin,(tianliang duohe fangdongye:0.9524)
 (shironekoban:1.05),(hidulume:1.05),meunhongcha
 jonylaser,kazuhiro \(tiramisu\)
 (shengtian,nopetroto:1.1025)
@@ -389,7 +389,7 @@ mamimi\(mamamimi\),blade \(galaxist\),(fuzichoco,butterchalk,yoshinari you,mika 
 (ishikei,ryou\(ryoutarou\),yuuhagi \(amaretto-no-natsu\),refeia,cierra\(ra-bit\):1.05)
 (miyase mahiro,creayus,binggong asylum,demizu posuka,namie,cui \(jidanhaidaitang\):1.05)
 (mandrill,miv4t,rebecca \(keinelove\),missile228,akakura:1.05)
-(nababa:1.2155),(onono imoko:1.05), mika pikazo,fkey, (torino:1.1576), (suzumi \(ccroquette\):1.2763)}, wlop, (ask \(askzy\):1.2155), (as109:0.907), (rei \(sanbonzakura\):1.2155), (mignon:1.05), (jonpei:1.1576), reoen(}, modare,:0.9524)(chiaroscuro:1.05)(, year 2023:0.9524)
+(nababa:1.2155),(onono imoko:1.05), mika pikazo,fkey, (torino:1.1576), (suzumi \(ccroquette\):1.2763), wlop, (ask \(askzy\):1.2155), (as109:0.907), (rei \(sanbonzakura\):1.2155), (mignon:1.05), (jonpei:1.1576), reoen(, modare,:0.9524)(chiaroscuro:1.05)(, year 2023:0.9524)
 (kaamin \(mariarose753\),sy4,meito \(maze\),cierra\(ra-bit\),shexyo:1.05)
 (sho \(sho lwlw\),as109:0.9524)(,nanase nao,hisona \(suaritesumi\),qtonagi,katahira masashi,:1.05)(chen bin:1.1576)
 (nixeu,momoko\(momopoco\),yoshinari you,itomugi-kun,fujima takuya:1.05)
